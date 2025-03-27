@@ -1,1 +1,1 @@
-Testing branchin (new_branch)
+Testing branching (new_branch) #fixed typo
